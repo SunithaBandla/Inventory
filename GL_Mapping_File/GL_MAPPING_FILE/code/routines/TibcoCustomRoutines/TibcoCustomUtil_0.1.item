@@ -1,0 +1,28 @@
+package routines;
+
+public class TibcoCustomUtil {
+
+    /**
+   Long String values handling  ex: > 4000
+     */
+    public static String tibcoFnSubStr(String org1) 
+ {
+     try
+     {
+      if (org1 == null) 
+       {
+          return null;
+         }
+      else if (org1.length()<=4000)
+      {
+       return org1;
+      }
+      else
+      {
+       return org1.substring(0, 4000);
+      }
+     }catch (Exception e) {
+         return "bad String passed"; //$NON-NLS-1$
+        }   
+    }
+}

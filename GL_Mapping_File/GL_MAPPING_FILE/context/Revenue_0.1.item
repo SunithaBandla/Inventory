@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_1Ph2MEJQEei3Z9zU41wVQg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_1Ph2MUJQEei3Z9zU41wVQg" comment="" name="connection_aws_host" prompt="connection_aws_host?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2MkJQEei3Z9zU41wVQg" comment="" name="connection_aws_port" prompt="connection_aws_port?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2M0JQEei3Z9zU41wVQg" comment="" name="connection_aws_db" prompt="connection_aws_db?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2NEJQEei3Z9zU41wVQg" comment="" name="connection_aws_schema" prompt="connection_aws_schema?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2NUJQEei3Z9zU41wVQg" comment="" name="connection_aws_username" prompt="connection_aws_username?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2NkJQEei3Z9zU41wVQg" comment="" name="connection_aws_password" prompt="connection_aws_password?" promptNeeded="true" type="id_Password" value=""/>
+  <contextParameter xmi:id="_1Ph2N0JQEei3Z9zU41wVQg" comment="" name="Email_To" prompt="Email_To?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2OEJQEei3Z9zU41wVQg" comment="" name="Email_From" prompt="Email_From?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2OUJQEei3Z9zU41wVQg" comment="" name="Email_Host" prompt="Email_Host?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2OkJQEei3Z9zU41wVQg" comment="" name="Email_Port" prompt="Email_Port?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2O0JQEei3Z9zU41wVQg" comment="" name="Email_cc" prompt="Email_cc?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2PEJQEei3Z9zU41wVQg" comment="" name="Job_start_time" prompt="Job_start_time?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2PUJQEei3Z9zU41wVQg" comment="" name="Job_end_time" prompt="Job_end_time?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2PkJQEei3Z9zU41wVQg" comment="" name="subject_start" prompt="subject_start?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2P0JQEei3Z9zU41wVQg" comment="" name="subject_completed" prompt="subject_completed?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2QEJQEei3Z9zU41wVQg" comment="" name="subject_fail" prompt="subject_fail?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2QUJQEei3Z9zU41wVQg" comment="" name="Box_Get_Revenue_GL_Mapping" prompt="Box_Get_Revenue_GL_Mapping?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2QkJQEei3Z9zU41wVQg" comment="" name="Box_Get_Path_Revenue_GL_Mapping" prompt="Box_Get_Path_Revenue_GL_Mapping?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2Q0JQEei3Z9zU41wVQg" comment="" name="Revenue_GL_Mapping_sheet_name" prompt="Revenue_GL_Mapping_sheet_name?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2REJQEei3Z9zU41wVQg" comment="" name="Box_Put_Path_Revenue_GL_Mapping" prompt="Box_Put_Path_Revenue_GL_Mapping?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2RUJQEei3Z9zU41wVQg" comment="" name="Box_Put_Revenue_File_Name" prompt="Box_Put_Revenue_File_Name?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2RkJQEei3Z9zU41wVQg" comment="" name="file_date" prompt="file_date?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2R0JQEei3Z9zU41wVQg" comment="" name="connection_Box_Client_Key" prompt="connection_Box_Client_Key?" promptNeeded="false" type="id_String" value="&quot;hbdrw43794cqdptxf33vf3ucyzm6bfv3&quot;"/>
+  <contextParameter xmi:id="_1Ph2SEJQEei3Z9zU41wVQg" comment="" name="connection_Box_Client_Secret" prompt="connection_Box_Client_Secret?" promptNeeded="false" type="id_String" value="&quot;hjzzeXqlHyuf7kbciXox3LY7F3LlHm07&quot;"/>
+  <contextParameter xmi:id="_1Ph2SUJQEei3Z9zU41wVQg" comment="" name="Box_Access_token" prompt="Box_Access_token?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2SkJQEei3Z9zU41wVQg" comment="" name="Box_Refresh_token" prompt="Box_Refresh_token?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2S0JQEei3Z9zU41wVQg" comment="" name="connection_aabypass_Host" prompt="connection_aabypass_Host?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2TEJQEei3Z9zU41wVQg" comment="" name="connection_aabypass_Database" prompt="connection_aabypass_Database?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2TUJQEei3Z9zU41wVQg" comment="" name="connection_aabypass_Port" prompt="connection_aabypass_Port?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2TkJQEei3Z9zU41wVQg" comment="" name="connection_aabypass_Schema" prompt="connection_aabypass_Schema?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2T0JQEei3Z9zU41wVQg" comment="" name="connection_aabypass_Username" prompt="connection_aabypass_Username?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2UEJQEei3Z9zU41wVQg" comment="" name="connection_aabypass_Password" prompt="connection_aabypass_Password?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2UUJQEei3Z9zU41wVQg" comment="" name="Box_Get_Promo_Credit_Mapping" prompt="Box_Get_Promo_Credit_Mapping?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2UkJQEei3Z9zU41wVQg" comment="" name="Box_Get_Path_Promo_Credit_Mapping" prompt="Box_Get_Path_Promo_Credit_Mapping?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2U0JQEei3Z9zU41wVQg" comment="" name="Promo_Credit_Mapping_sheet_name" prompt="Promo_Credit_Mapping_sheet_name?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2VEJQEei3Z9zU41wVQg" comment="" name="Box_Put_Path_Promo_Credit_Mapping" prompt="Box_Put_Path_Promo_Credit_Mapping?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_1Ph2VUJQEei3Z9zU41wVQg" comment="" name="Box_Put_Promo_Credit_Mapping" prompt="Box_Put_Promo_Credit_Mapping?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
